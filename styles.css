@@ -197,9 +197,10 @@ height: 100%;
 
 
 .row1 {
-    height: 500px;
-    margin: 5%;
+    height:500px;
+    margin: 2%;
     background-color: #FB6B8E;
+    overflow:auto;
 }
 
 .row1ImgDiv {
@@ -341,9 +342,10 @@ ul {
 
 .row2 {
     display: flex;
-    height: 800px;
+    height: 700px;
     margin: 3%;
     background-color: rgba(245, 202, 202, 0.623);
+    overflow:auto;
 }
 
 
@@ -390,10 +392,10 @@ ul {
 /* Row 3*/
 
 .row3 {
-    height: 800px;
+    height: 700px;
     margin: 3%;
     background-color: rgba(245, 202, 202, 0.623);
-    
+    overflow:auto;
 }
 .item {
     width: 28%;
